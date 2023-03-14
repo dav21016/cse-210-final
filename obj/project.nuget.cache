@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "yGvGXh68NiDgsSGk2RSV6Vuu+330NHgt3RaWU2jomgpqueP+a3sjVxwVeOBXC2qDQD62kffZyvaEmAnKsZiblw==",
+  "dgSpecHash": "rj2vEmWOSObxlAiPBywWSKk5kI7iVpFesoeiQUDa6PbQqXqRuNZBDk864zQXNyUD+yT6/lLG2a/Xx6WxkDr78Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\logan\\Documents\\GitHub\\cse-210-final\\cse-210-final.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\logan\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
-    "C:\\Users\\logan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+    "C:\\Users\\logan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }
